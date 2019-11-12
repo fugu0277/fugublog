@@ -1,11 +1,14 @@
 ---
-title: Recent & Upcoming Talks
+title: TECHNOLOGY
+
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 1
+
+weigth: 20
 
 # Optional header image (relative to `static/img/` folder).
 header:
