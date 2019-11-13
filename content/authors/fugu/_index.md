@@ -14,7 +14,7 @@ role: 高専情報科でWEBアプリ開発をしています。分かりやす�
 
 # Organizations/Affiliations
 organizations:
-- name: fugu
+- name:   フグ -fugu-
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,10 +27,10 @@ bio: ""
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/esuhaku
+  link: https://twitter.com/fugu0277
 - icon: github
   icon_pack: fab
-  link: https://github.com/esuhaku
+  link: https://github.com/fugu0277
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

@@ -62,6 +62,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[[Git・GitHubとは？]システムの概要と使い方](https://esublog.netlify.com/technology/assets/gitgithubhowto_and_using/)  
-[[QtCreator]Linux上でC,C++のデバッグ環境を構築してみた](https://esublog.netlify.com/technology/assets/qtcreatorcc++debug/)  
-[ITパスポート合格のための勉強法（対策期間は1カ月）](https://esublog.netlify.com/experience/assets/study_ipass/)  
+[[Git・GitHubとは？]システムの概要と使い方](https://fugublog.netlify.com/technology/assets/gitgithubhowto_and_using/)  
+[[QtCreator]Linux上でC,C++のデバッグ環境を構築してみた](https://fugublog.netlify.com/technology/assets/qtcreatorcc++debug/)  
+[ITパスポート合格のための勉強法（対策期間は1カ月）](https://fugublog.netlify.com/experience/assets/study_ipass/)  
