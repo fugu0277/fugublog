@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome to the **fugublog** !"
-subtitle = ""
+title = "フグブログ"
+subtitle = "Welcome to the **fugublog** !"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,4 +47,4 @@ subtitle = ""
  css_class = ""
 +++
 
--技術系Webサイト⚙-
+主に技術系の内容。ノウハウを体系的にまとめ、有益な記事を提供したいです★

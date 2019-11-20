@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 高専情報科でWEBアプリ開発をしています。分かりやすい記事を書けるよう心がけたいです（*^_^*）
+role: 地方中学校野球部→高専情報科へ行きWebアプリ開発を始める。→大学編入を目指して勉強中。 / 趣味は音楽鑑賞、ピアノ、ギター。 /ノウハウを体系的にまとめていき、有益な記事を書くよう心がけます（*^_^*）
 
 # Organizations/Affiliations
 organizations:
