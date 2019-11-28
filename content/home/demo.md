@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "フグブログ"
-subtitle = "Welcome to the **fugublog** !"
+subtitle = "This site is for **geek** ."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,4 +47,4 @@ subtitle = "Welcome to the **fugublog** !"
  css_class = ""
 +++
 
-自分が経験したことをもとに、ノウハウを体系的にまとめて行きます。
+自分が経験したことをもとにノウハウを体系的にまとめて行きます。

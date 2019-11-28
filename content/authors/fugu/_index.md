@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 地方中学校野球部→高専情報科へ行きWebアプリ開発を始める→大学編入を目指して勉強中🔥 / 趣味はピアノ、音ゲー / 座右の銘は"なるべく疲れないように生きる" / 
+role: 地方中学校野球部→高専（情報科）→大学編入を目指して勉強中 / 趣味はブログとピアノ / 座右の銘は"なるべく疲れないように生きる" / 
 
 # Organizations/Affiliations
 organizations:
